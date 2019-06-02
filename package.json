@@ -4,10 +4,9 @@
   "description": "alts",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ."
   "dependencies": {
     "discord.io": "^2.5.3",
     "discord.js": "^11.5.1",
-    "winston": "^3.2.1"
   }
 }
