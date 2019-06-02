@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  "author": "WOLF",
   "license": "ISC",
   "dependencies": {
     "discord.io": "^2.5.3",
